@@ -16,3 +16,4 @@ Soy un desarrollador enfocado en el Backend y en la creación de aplicaciones de
 [![](https://visitcount.itsvg.in/api?id=MiguelDelacruzCueva&icon=1&color=2)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![MiguelDelacruzCueva-space-shooter](https://github.com/user-attachments/assets/124d1156-28bb-4ec4-8c37-66b9f32cbcf7)
