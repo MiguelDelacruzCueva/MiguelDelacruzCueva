@@ -13,7 +13,10 @@ Soy Estudiante de 8 ciclo de la carrera de Ingeniería de sistemas y me estoy di
 <!--!![](https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelDelacruzCueva&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)-->
 
 ---
-[![](https://visitcount.itsvg.in/api?id=MiguelDelacruzCueva&icon=1&color=2)](https://visitcount.itsvg.in)
+<!--!![![](https://visitcount.itsvg.in/api?id=MiguelDelacruzCueva&icon=1&color=2)](https://visitcount.itsvg.in) 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-![MiguelDelacruzCueva-space-shooter](https://github.com/user-attachments/assets/124d1156-28bb-4ec4-8c37-66b9f32cbcf7)
+<!--![MiguelDelacruzCueva-space-shooter](https://github.com/user-attachments/assets/124d1156-28bb-4ec4-8c37-66b9f32cbcf7)-->
+
+<img width="860" height="230" alt="MiguelDelacruzCueva-space-shooter" src="https://github.com/user-attachments/assets/63d7edae-e50d-4af8-939e-d4a1157653b6" />
+
