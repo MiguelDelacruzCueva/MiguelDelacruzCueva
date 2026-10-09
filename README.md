@@ -1,14 +1,15 @@
-## Sobre mí
+## SOBRE MÍ:
 
 > Estudiante de 8vo ciclo de Ingeniería de Sistemas con enfoque en el desarrollo de automatizaciones, arquitecturas de red y aplicaciones de escritorio de alto rendimiento. Apasionado por comprender el ciclo de vida y flujo de datos para construir soluciones eficientes, escalables y seguras.
 
 ---
-### Enfoque actual
+## ENFOQUE ACTUAL:
 
-- **Trabajando en:** Automatización de flujos de trabajo y optimización de procesos operativos.
-- **Formación continua:** Fundamentos de ciberseguridad, análisis de vulnerabilidades y *hardening* de infraestructura.
-- **Perfil de resolución:** Interés constante en la ingeniería inversa aplicada al software: descomponer arquitecturas para entender su lógica interna antes de diseñar la solución óptima.
-
+| Directiva | Objetivo & Estado |
+| :--- | :--- |
+| **Pipeline Activo** | Automatización de flujos de trabajo e ingeniería de procesos operativos ![En Progreso](https://img.shields.io/badge/Status-Active-2ea44f?style=flat-square) |
+| **I+D & Aprendizaje** | Hardening de sistemas, seguridad de red y mitigación de vectores de ataque ![Investigando](https://img.shields.io/badge/Status-Deep_Dive-0969da?style=flat-square) |
+| **Metodología** | Descomponer arquitecturas para entender su lógica interna antes de diseñar la solución óptima ![Mentalidad](https://img.shields.io/badge/Core-Reverse_Engineering-6e5494?style=flat-square) |
 ---
 
 ## 🌐 REDES SOCIALES:
