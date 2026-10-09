@@ -1,5 +1,9 @@
 # SOBRE MI:
-Soy Estudiante de 8 ciclo de la carrera de Ingeniería de sistemas y me estoy direccionando en el desarrollo de automatizaciones y en la creación de aplicaciones de escritorio robustas. Me apasiona entender cómo fluyen los datos a través de las redes y construir sistemas que no solo funcionen, sino que sean eficientes, escalables y seguros.<br><br>    🔭 Actualmente trabajando en: Automatización y Optimización de prcesos.<br><br>    🌱 Aprendiendo sobre: Fundamentos de Ciberseguridad y Hardening de sistemas .<br><br>     ⚡ Dato curioso: Me gusta desarmar las cosas (digitalmente hablando) para entender cómo funcionan por dentro antes de volver a armarlas.<br><br>Stack Tecnológico: | Java | SQL | Linux | Power Automate
+Soy Estudiante de 8 ciclo de la carrera de Ingeniería de sistemas y me estoy direccionando en el desarrollo de automatizaciones y en la creación de aplicaciones de escritorio robustas. Me apasiona entender cómo fluyen los datos a través de las redes y construir sistemas que no solo funcionen, sino que sean eficientes, escalables y seguros.
+<br><br>  Actualmente trabajando en: Automatización y Optimización de prcesos.
+<br><br>  Aprendiendo sobre: Fundamentos de Ciberseguridad y Hardening de sistemas .
+<br><br>  Dato curioso: Me gusta desarmar las cosas (digitalmente hablando) para entender cómo funcionan por dentro antes de volver a armarlas.
+<br><br>Stack Tecnológico: | Java | SQL | Linux | Power Automate
 
 
 ## 🌐 REDES SOCIALES:
