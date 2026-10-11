@@ -9,7 +9,7 @@
 | :--- | :--- |
 | **Pipeline Activo** | Automatización de flujos de trabajo e ingeniería de procesos operativos ![En Progreso](https://img.shields.io/badge/Status-Active-2ea44f?style=flat-square) |
 | **I+D & Aprendizaje** | Hardening de sistemas, seguridad de red y mitigación de vectores de ataque ![Investigando](https://img.shields.io/badge/Status-Deep_Dive-0969da?style=flat-square) |
-| **Metodología** | Descomponer arquitecturas para entender su lógica interna antes de diseñar la solución óptima ![Mentalidad](https://img.shields.io/badge/Core-Reverse_Engineering-6e5494?style=flat-square) |
+| **Metodología** | Descomponer arquitecturas para entender su lógica interna ![Mentalidad](https://img.shields.io/badge/Core-Reverse_Engineering-6e5494?style=flat-square) |
 ---
 
 ## 🌐 REDES SOCIALES:
